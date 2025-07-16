@@ -1,0 +1,11 @@
+trade-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── firebase/
+│   ├── App.jsx
+│   └── index.js
+├── tailwind.config.js
+├── package.json
+└── .env
